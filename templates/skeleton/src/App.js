@@ -1,8 +1,9 @@
 import React from 'react';
-import { jsonServerRestClient, Admin, Resource } from 'react-admin';
+import { Admin, Resource } from 'react-admin';
+import jsonServerRestClient from 'ra-data-json-server';
 
 const App = () => (
-  <Admin restClient={jsonServerRestClient('http://jsonplaceholder.typicode.com')}>
+  <Admin dataProvider={jsonServerRestClient('http://jsonplaceholder.typicode.com')}>
   </Admin>
 );
 
