@@ -1,16 +1,16 @@
-# boards-preset-react-admin
+# boards-preset-ra
 
 [React-admin](https://marmelab.com/react-admin) preset for the [Boards CLI](https://github.com/SpoonX/boards-cli).
 
 ## Installing
 
-`yarn global add boards-preset-react-admin` or `npm i -g boards-preset-react-admin`
+`yarn global add boards-preset-ra` or `npm i -g boards-preset-ra`
 
 ## Quick start
 
 To see this boards preset in action and create a fully functional dashboard in under 5 minutes, follow these steps:
 
-1. `yarn global add boards-cli boards-preset-react-admin`
+1. `yarn global add boards-cli boards-preset-ra`
 2. `boards ra:init my-project`
 3. `cd my-project`
 4. `boards ra:resource posts`

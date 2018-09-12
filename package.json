@@ -1,5 +1,5 @@
 {
-  "name": "boards-preset-react-admin",
+  "name": "boards-preset-ra",
   "version": "1.0.0",
   "description": "A boards-cli preset for react-admin.",
   "main": "index.js",
