@@ -1,6 +1,6 @@
 # boards-preset-react-admin
 
-[Admin on rest](https://marmelab.com/react-admin) preset for the [Boards CLI](https://github.com/SpoonX/boards-cli).
+[React-admin](https://marmelab.com/react-admin) preset for the [Boards CLI](https://github.com/SpoonX/boards-cli).
 
 ## Installing
 
@@ -24,7 +24,7 @@ This preset adds the following tasks to your project.
 
 ### ra:init
 
-Initializes a new Admin on Rest project.
+Initializes a new react-admin project.
 
 `boards ra:init my-project`
 

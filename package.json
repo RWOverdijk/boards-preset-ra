@@ -1,7 +1,7 @@
 {
   "name": "boards-preset-react-admin",
-  "version": "1.0.3",
-  "description": "A boards-cli preset for admin on rest.",
+  "version": "0.0.0",
+  "description": "A boards-cli preset for react-admin.",
   "main": "index.js",
   "keywords": [
     "react",
